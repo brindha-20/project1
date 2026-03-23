@@ -1,4 +1,4 @@
-students={}
+tudents={}
 def add_student(name,marks):
     students[name]=marks
     print("student added")
